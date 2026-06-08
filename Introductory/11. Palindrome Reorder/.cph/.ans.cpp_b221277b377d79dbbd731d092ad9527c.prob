@@ -1,0 +1,1 @@
+{"name":"Local: ans","url":"d:\\CSES Sheet\\Introductory\\11. Palindrome Reorder\\ans.cpp","tests":[{"id":1780957499732,"input":"AAAACACBA","output":"AACABACAA"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\CSES Sheet\\Introductory\\11. Palindrome Reorder\\ans.cpp","group":"local","local":true}
