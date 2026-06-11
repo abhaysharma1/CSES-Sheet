@@ -1,0 +1,1 @@
+{"name":"Local: ans","url":"d:\\CSES Sheet\\Introductory\\13. Tower of Hanoi\\ans.cpp","tests":[{"id":1780998597878,"input":"2","output":"3\n1 2\n1 3\n2 3"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\CSES Sheet\\Introductory\\13. Tower of Hanoi\\ans.cpp","group":"local","local":true}
