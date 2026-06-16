@@ -1,0 +1,1 @@
+{"name":"Local: ans","url":"d:\\CSES Sheet\\Sorting & Searching\\23. Nearest Smaller Values\\ans.cpp","tests":[{"id":1781638136270,"input":"3\n3 3 3","output":"0 0 0 "}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\CSES Sheet\\Sorting & Searching\\23. Nearest Smaller Values\\ans.cpp","group":"local","local":true}

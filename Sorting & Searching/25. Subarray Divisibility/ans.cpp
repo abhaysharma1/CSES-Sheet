@@ -3,8 +3,8 @@
 #include <iostream>
 #include <map>
 #include <set>
-#include <stack>
 #include <string>
+#include <unordered_map>
 #include <vector>
 
 using namespace std;
@@ -12,20 +12,22 @@ using namespace std;
 int main() {
     long long n;
     cin >> n;
-    stack<long long> stk;
     vector<long long> arr(n);
     for (long long i = 0; i < n; i++) {
         cin >> arr[i];
-        while (!stk.empty() && arr[stk.top()] >= arr[i]) {
-            stk.pop();
-        }
-        if (!stk.empty()) {
-            cout << stk.top() + 1 << " ";
-        } else {
-            cout << 0 << " ";
-        }
-        stk.push(i);
     }
+    unordered_map<long long, long long> mp;
+    mp[0] = 1;
+
+    long long currSum = 0, ans = 0;
+
+    for (long long i = 0; i < n; i++) {
+        currSum += arr[i];
+        ans += mp[((currSum % n) + n) % n];
+        mp[((currSum % n) + n) % n]++;
+    }
+
+    cout << ans;
 
     return 0;
 }
