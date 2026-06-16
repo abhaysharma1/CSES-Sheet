@@ -1,0 +1,1 @@
+{"name":"Local: ans","url":"d:\\CSES Sheet\\Sorting & Searching\\22. Sum of Four Values\\ans.cpp","tests":[{"id":1781637848219,"input":"8 15\n3 2 5 8 1 3 2 3","output":"2 4 6 7"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\CSES Sheet\\Sorting & Searching\\22. Sum of Four Values\\ans.cpp","group":"local","local":true}

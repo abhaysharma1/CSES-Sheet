@@ -1,0 +1,1 @@
+{"name":"Local: ans","url":"d:\\CSES Sheet\\Sorting & Searching\\8. Maximum Subarray Sum\\ans.cpp","tests":[{"id":1781336958878,"input":"8\n-1 3 -2 5 3 -5 2 2","output":"9"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\CSES Sheet\\Sorting & Searching\\8. Maximum Subarray Sum\\ans.cpp","group":"local","local":true}

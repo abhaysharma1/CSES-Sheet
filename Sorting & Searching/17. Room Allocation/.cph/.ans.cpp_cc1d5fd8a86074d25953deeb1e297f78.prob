@@ -1,0 +1,1 @@
+{"name":"Local: ans","url":"d:\\CSES Sheet\\Sorting & Searching\\17. Room Allocation\\ans.cpp","tests":[{"id":1781552909434,"input":"3\n1 2\n2 4\n4 4","output":"2\n1 2 1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\CSES Sheet\\Sorting & Searching\\17. Room Allocation\\ans.cpp","group":"local","local":true}
